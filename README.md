@@ -1,2 +1,2 @@
-# aula02react
+# Reactaula02_Componentdeclass
 Created with CodeSandbox
